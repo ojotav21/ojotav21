@@ -18,6 +18,9 @@
   <img align="center" alt ="JV-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></img>
   <img align="center" alt ="JV-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></img>
   <img align="center" alt ="JV-bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"></img>
+   <img align="right" alt ="JV-gif" height="128" width="128" src="https://user-images.githubusercontent.com/60045344/140613671-ce23a301-ffd1-44e8-95bc-0cb9b85cffe3.gif"></img>
+
+
 </div>
 
 ##
